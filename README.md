@@ -1,1 +1,3 @@
 # IMDB-NLP-Project
+
+Data On Kaggle : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
